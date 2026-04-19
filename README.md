@@ -39,20 +39,24 @@ Se prioriza una arquitectura simple:
 |-- vite.config.ts
 |-- public/
 |   `-- data/
+|       |-- endutih_2024_state_dashboard.wide.json
 |       `-- states.metrics.json
 |-- data/
 |   |-- catalogs/
 |   |   |-- states.master.json
 |   |   `-- variables.catalog.json
 |   |-- processed/
-|   |   |-- territorial_dashboard.wide.json
-|   |   |-- territorial_observations.long.csv
-|   |   `-- territorial_observations.long.json
+|   |   |-- endutih_2024_state_dashboard.wide.json
+|   |   |-- endutih_2024_state_observations.long.csv
+|   |   `-- endutih_2024_state_observations.long.json
 |   `-- raw/
-|       |-- states.metrics.source.json
-|       `-- states.metrics.source.csv
+|       |-- tr_endutih_usuarios_anual_2024.csv
+|       |-- tr_endutih_usuarios2_anual_2024.csv
+|       |-- diccionario_de_datos_tr_endutih_usuarios_anual_2024.csv
+|       |-- diccionario_de_datos_tr_endutih_usuarios2_anual_2024.csv
+|       `-- metadatos_endutih_anual_2024.txt
 |-- scripts/
-|   `-- build-processed-data.mjs
+|   `-- build_endutih_2024.py
 |-- src/
 |   |-- app/
 |   |   |-- App.tsx
@@ -86,10 +90,10 @@ Se prioriza una arquitectura simple:
 npm install
 ```
 
-2. Si quieres regenerar el dataset publico desde la fuente local:
+2. Si quieres regenerar los indicadores estatales de ENDUTIH 2024:
 
 ```bash
-npm run data:build
+npm run data:build:endutih
 ```
 
 3. Levanta la app:
@@ -103,9 +107,8 @@ npm run dev
 ## Que incluye este scaffolding
 
 - Una sola pagina con `header`, filtros, KPIs, dashboards comparativos e insights.
-- Datos mock minimos para validar la UI desde archivos locales.
-- Un script base para mover datos procesados hacia la carpeta publica.
+- Datos crudos reales de ENDUTIH 2024 en `data/raw`.
+- Un ETL en Python que agrega indicadores por entidad usando `FAC_PER` y `CVE_ENT`.
 - Componentes desacoplados para crecer sin meter backend antes de tiempo.
 - Un estandar de datos documentado en `docs/data-standard.md`.
-- Catalogos y ejemplos procesados para comparar estados con nombres consistentes.
-
+- Catalogos y datasets procesados listos para comparar estados con nombres consistentes.

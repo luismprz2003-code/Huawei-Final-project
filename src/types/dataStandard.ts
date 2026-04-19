@@ -18,6 +18,7 @@ export type VariableCatalogEntry = {
 
 export type StateMasterEntry = {
   state_code: string;
+  cve_ent?: string;
   estado: string;
   aliases: string[];
   region: string;

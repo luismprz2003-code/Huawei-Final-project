@@ -1,0 +1,417 @@
+state_code,cve_ent,estado,categoria,variable,valor,anio,fuente,unidad
+AGS,01,Aguascalientes,infraestructura_digital,personas_usuarias_computadora_pct,39.14,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,infraestructura_digital,personas_usuarias_computadora_pct,37.95,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,infraestructura_digital,personas_usuarias_computadora_pct,40.38,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,infraestructura_digital,personas_usuarias_computadora_pct,33.71,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,infraestructura_digital,personas_usuarias_computadora_pct,40.49,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,infraestructura_digital,personas_usuarias_computadora_pct,43.93,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,infraestructura_digital,personas_usuarias_computadora_pct,23.5,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,infraestructura_digital,personas_usuarias_computadora_pct,42.35,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,infraestructura_digital,personas_usuarias_computadora_pct,52.76,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,infraestructura_digital,personas_usuarias_computadora_pct,37.4,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,infraestructura_digital,personas_usuarias_computadora_pct,32.62,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,infraestructura_digital,personas_usuarias_computadora_pct,24.75,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,infraestructura_digital,personas_usuarias_computadora_pct,39.55,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,infraestructura_digital,personas_usuarias_computadora_pct,41.01,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,infraestructura_digital,personas_usuarias_computadora_pct,37.16,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,infraestructura_digital,personas_usuarias_computadora_pct,32.24,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,infraestructura_digital,personas_usuarias_computadora_pct,33.24,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,infraestructura_digital,personas_usuarias_computadora_pct,31.42,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,infraestructura_digital,personas_usuarias_computadora_pct,41.76,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,infraestructura_digital,personas_usuarias_computadora_pct,24.33,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,infraestructura_digital,personas_usuarias_computadora_pct,31.54,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,infraestructura_digital,personas_usuarias_computadora_pct,42.3,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,infraestructura_digital,personas_usuarias_computadora_pct,42.41,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,infraestructura_digital,personas_usuarias_computadora_pct,32.95,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,infraestructura_digital,personas_usuarias_computadora_pct,39.97,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,infraestructura_digital,personas_usuarias_computadora_pct,42.41,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,infraestructura_digital,personas_usuarias_computadora_pct,33.94,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,infraestructura_digital,personas_usuarias_computadora_pct,37.84,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,infraestructura_digital,personas_usuarias_computadora_pct,38.25,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,infraestructura_digital,personas_usuarias_computadora_pct,26.79,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,infraestructura_digital,personas_usuarias_computadora_pct,38.24,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,infraestructura_digital,personas_usuarias_computadora_pct,32.55,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,infraestructura_digital,personas_usuarias_internet_pct,87.74,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,infraestructura_digital,personas_usuarias_internet_pct,86.38,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,infraestructura_digital,personas_usuarias_internet_pct,90.43,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,infraestructura_digital,personas_usuarias_internet_pct,84.14,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,infraestructura_digital,personas_usuarias_internet_pct,88.15,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,infraestructura_digital,personas_usuarias_internet_pct,87.82,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,infraestructura_digital,personas_usuarias_internet_pct,64.92,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,infraestructura_digital,personas_usuarias_internet_pct,85.23,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,infraestructura_digital,personas_usuarias_internet_pct,87.93,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,infraestructura_digital,personas_usuarias_internet_pct,82.85,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,infraestructura_digital,personas_usuarias_internet_pct,78.84,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,infraestructura_digital,personas_usuarias_internet_pct,77.48,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,infraestructura_digital,personas_usuarias_internet_pct,83.21,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,infraestructura_digital,personas_usuarias_internet_pct,87.69,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,infraestructura_digital,personas_usuarias_internet_pct,86.02,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,infraestructura_digital,personas_usuarias_internet_pct,82.5,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,infraestructura_digital,personas_usuarias_internet_pct,84.21,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,infraestructura_digital,personas_usuarias_internet_pct,83.0,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,infraestructura_digital,personas_usuarias_internet_pct,86.69,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,infraestructura_digital,personas_usuarias_internet_pct,69.24,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,infraestructura_digital,personas_usuarias_internet_pct,78.0,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,infraestructura_digital,personas_usuarias_internet_pct,85.0,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,infraestructura_digital,personas_usuarias_internet_pct,90.69,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,infraestructura_digital,personas_usuarias_internet_pct,79.65,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,infraestructura_digital,personas_usuarias_internet_pct,87.83,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,infraestructura_digital,personas_usuarias_internet_pct,91.34,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,infraestructura_digital,personas_usuarias_internet_pct,83.52,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,infraestructura_digital,personas_usuarias_internet_pct,87.74,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,infraestructura_digital,personas_usuarias_internet_pct,82.23,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,infraestructura_digital,personas_usuarias_internet_pct,77.17,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,infraestructura_digital,personas_usuarias_internet_pct,85.96,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,infraestructura_digital,personas_usuarias_internet_pct,85.05,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,cobertura_red,personas_conexion_internet_movil_pct,43.59,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,cobertura_red,personas_conexion_internet_movil_pct,53.35,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,cobertura_red,personas_conexion_internet_movil_pct,53.45,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,cobertura_red,personas_conexion_internet_movil_pct,52.25,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,cobertura_red,personas_conexion_internet_movil_pct,46.97,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,cobertura_red,personas_conexion_internet_movil_pct,54.48,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,cobertura_red,personas_conexion_internet_movil_pct,33.3,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,cobertura_red,personas_conexion_internet_movil_pct,53.8,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,cobertura_red,personas_conexion_internet_movil_pct,54.21,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,cobertura_red,personas_conexion_internet_movil_pct,54.88,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,cobertura_red,personas_conexion_internet_movil_pct,41.38,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,cobertura_red,personas_conexion_internet_movil_pct,46.51,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,cobertura_red,personas_conexion_internet_movil_pct,54.6,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,cobertura_red,personas_conexion_internet_movil_pct,49.69,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,cobertura_red,personas_conexion_internet_movil_pct,37.02,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,cobertura_red,personas_conexion_internet_movil_pct,53.76,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,cobertura_red,personas_conexion_internet_movil_pct,46.93,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,cobertura_red,personas_conexion_internet_movil_pct,63.6,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,cobertura_red,personas_conexion_internet_movil_pct,36.51,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,cobertura_red,personas_conexion_internet_movil_pct,39.44,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,cobertura_red,personas_conexion_internet_movil_pct,43.36,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,cobertura_red,personas_conexion_internet_movil_pct,41.7,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,cobertura_red,personas_conexion_internet_movil_pct,54.43,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,cobertura_red,personas_conexion_internet_movil_pct,57.48,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,cobertura_red,personas_conexion_internet_movil_pct,59.04,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,cobertura_red,personas_conexion_internet_movil_pct,67.11,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,cobertura_red,personas_conexion_internet_movil_pct,54.0,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,cobertura_red,personas_conexion_internet_movil_pct,42.64,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,cobertura_red,personas_conexion_internet_movil_pct,55.56,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,cobertura_red,personas_conexion_internet_movil_pct,48.39,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,cobertura_red,personas_conexion_internet_movil_pct,55.41,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,cobertura_red,personas_conexion_internet_movil_pct,55.99,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,infraestructura_digital,personas_usan_redes_sociales_pct,77.26,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,infraestructura_digital,personas_usan_redes_sociales_pct,76.41,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,infraestructura_digital,personas_usan_redes_sociales_pct,83.6,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,infraestructura_digital,personas_usan_redes_sociales_pct,76.19,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,infraestructura_digital,personas_usan_redes_sociales_pct,79.81,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,infraestructura_digital,personas_usan_redes_sociales_pct,80.23,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,infraestructura_digital,personas_usan_redes_sociales_pct,57.44,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,infraestructura_digital,personas_usan_redes_sociales_pct,78.36,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,infraestructura_digital,personas_usan_redes_sociales_pct,81.47,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,infraestructura_digital,personas_usan_redes_sociales_pct,76.22,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,infraestructura_digital,personas_usan_redes_sociales_pct,67.21,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,infraestructura_digital,personas_usan_redes_sociales_pct,71.72,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,infraestructura_digital,personas_usan_redes_sociales_pct,73.93,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,infraestructura_digital,personas_usan_redes_sociales_pct,79.3,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,infraestructura_digital,personas_usan_redes_sociales_pct,78.04,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,infraestructura_digital,personas_usan_redes_sociales_pct,72.91,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,infraestructura_digital,personas_usan_redes_sociales_pct,74.89,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,infraestructura_digital,personas_usan_redes_sociales_pct,76.31,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,infraestructura_digital,personas_usan_redes_sociales_pct,76.8,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,infraestructura_digital,personas_usan_redes_sociales_pct,61.43,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,infraestructura_digital,personas_usan_redes_sociales_pct,71.45,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,infraestructura_digital,personas_usan_redes_sociales_pct,74.18,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,infraestructura_digital,personas_usan_redes_sociales_pct,81.97,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,infraestructura_digital,personas_usan_redes_sociales_pct,72.59,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,infraestructura_digital,personas_usan_redes_sociales_pct,81.72,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,infraestructura_digital,personas_usan_redes_sociales_pct,86.45,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,infraestructura_digital,personas_usan_redes_sociales_pct,77.1,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,infraestructura_digital,personas_usan_redes_sociales_pct,82.0,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,infraestructura_digital,personas_usan_redes_sociales_pct,75.8,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,infraestructura_digital,personas_usan_redes_sociales_pct,69.28,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,infraestructura_digital,personas_usan_redes_sociales_pct,78.38,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,infraestructura_digital,personas_usan_redes_sociales_pct,77.5,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,infraestructura_digital,personas_compras_internet_pct,39.1,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,infraestructura_digital,personas_compras_internet_pct,31.76,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,infraestructura_digital,personas_compras_internet_pct,38.62,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,infraestructura_digital,personas_compras_internet_pct,24.95,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,infraestructura_digital,personas_compras_internet_pct,37.48,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,infraestructura_digital,personas_compras_internet_pct,38.22,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,infraestructura_digital,personas_compras_internet_pct,14.85,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,infraestructura_digital,personas_compras_internet_pct,40.01,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,infraestructura_digital,personas_compras_internet_pct,39.28,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,infraestructura_digital,personas_compras_internet_pct,31.64,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,infraestructura_digital,personas_compras_internet_pct,26.98,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,infraestructura_digital,personas_compras_internet_pct,20.88,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,infraestructura_digital,personas_compras_internet_pct,27.45,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,infraestructura_digital,personas_compras_internet_pct,34.94,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,infraestructura_digital,personas_compras_internet_pct,25.91,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,infraestructura_digital,personas_compras_internet_pct,29.44,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,infraestructura_digital,personas_compras_internet_pct,27.07,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,infraestructura_digital,personas_compras_internet_pct,29.8,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,infraestructura_digital,personas_compras_internet_pct,34.84,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,infraestructura_digital,personas_compras_internet_pct,17.95,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,infraestructura_digital,personas_compras_internet_pct,23.69,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,infraestructura_digital,personas_compras_internet_pct,33.84,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,infraestructura_digital,personas_compras_internet_pct,34.42,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,infraestructura_digital,personas_compras_internet_pct,28.58,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,infraestructura_digital,personas_compras_internet_pct,36.83,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,infraestructura_digital,personas_compras_internet_pct,39.43,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,infraestructura_digital,personas_compras_internet_pct,29.09,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,infraestructura_digital,personas_compras_internet_pct,36.26,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,infraestructura_digital,personas_compras_internet_pct,23.44,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,infraestructura_digital,personas_compras_internet_pct,22.67,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,infraestructura_digital,personas_compras_internet_pct,38.17,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,infraestructura_digital,personas_compras_internet_pct,27.3,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,infraestructura_digital,personas_pagos_internet_pct,33.99,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,infraestructura_digital,personas_pagos_internet_pct,33.78,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,infraestructura_digital,personas_pagos_internet_pct,36.38,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,infraestructura_digital,personas_pagos_internet_pct,24.7,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,infraestructura_digital,personas_pagos_internet_pct,32.17,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,infraestructura_digital,personas_pagos_internet_pct,33.21,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,infraestructura_digital,personas_pagos_internet_pct,13.64,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,infraestructura_digital,personas_pagos_internet_pct,35.54,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,infraestructura_digital,personas_pagos_internet_pct,39.68,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,infraestructura_digital,personas_pagos_internet_pct,26.47,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,infraestructura_digital,personas_pagos_internet_pct,19.99,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,infraestructura_digital,personas_pagos_internet_pct,18.07,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,infraestructura_digital,personas_pagos_internet_pct,27.25,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,infraestructura_digital,personas_pagos_internet_pct,31.9,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,infraestructura_digital,personas_pagos_internet_pct,25.52,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,infraestructura_digital,personas_pagos_internet_pct,24.8,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,infraestructura_digital,personas_pagos_internet_pct,25.64,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,infraestructura_digital,personas_pagos_internet_pct,23.11,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,infraestructura_digital,personas_pagos_internet_pct,35.01,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,infraestructura_digital,personas_pagos_internet_pct,17.14,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,infraestructura_digital,personas_pagos_internet_pct,21.83,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,infraestructura_digital,personas_pagos_internet_pct,33.21,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,infraestructura_digital,personas_pagos_internet_pct,28.62,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,infraestructura_digital,personas_pagos_internet_pct,25.53,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,infraestructura_digital,personas_pagos_internet_pct,32.1,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,infraestructura_digital,personas_pagos_internet_pct,36.66,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,infraestructura_digital,personas_pagos_internet_pct,28.3,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,infraestructura_digital,personas_pagos_internet_pct,32.08,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,infraestructura_digital,personas_pagos_internet_pct,20.36,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,infraestructura_digital,personas_pagos_internet_pct,19.93,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,infraestructura_digital,personas_pagos_internet_pct,32.26,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,infraestructura_digital,personas_pagos_internet_pct,23.6,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,infraestructura_digital,personas_banca_electronica_pct,29.2,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,infraestructura_digital,personas_banca_electronica_pct,19.56,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,infraestructura_digital,personas_banca_electronica_pct,16.13,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,infraestructura_digital,personas_banca_electronica_pct,4.5,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,infraestructura_digital,personas_banca_electronica_pct,23.94,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,infraestructura_digital,personas_banca_electronica_pct,21.31,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,infraestructura_digital,personas_banca_electronica_pct,6.58,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,infraestructura_digital,personas_banca_electronica_pct,22.43,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,infraestructura_digital,personas_banca_electronica_pct,17.1,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,infraestructura_digital,personas_banca_electronica_pct,12.35,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,infraestructura_digital,personas_banca_electronica_pct,12.9,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,infraestructura_digital,personas_banca_electronica_pct,7.72,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,infraestructura_digital,personas_banca_electronica_pct,11.17,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,infraestructura_digital,personas_banca_electronica_pct,10.9,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,infraestructura_digital,personas_banca_electronica_pct,16.63,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,infraestructura_digital,personas_banca_electronica_pct,8.41,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,infraestructura_digital,personas_banca_electronica_pct,15.46,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,infraestructura_digital,personas_banca_electronica_pct,9.32,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,infraestructura_digital,personas_banca_electronica_pct,27.83,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,infraestructura_digital,personas_banca_electronica_pct,6.25,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,infraestructura_digital,personas_banca_electronica_pct,12.73,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,infraestructura_digital,personas_banca_electronica_pct,18.29,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,infraestructura_digital,personas_banca_electronica_pct,13.06,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,infraestructura_digital,personas_banca_electronica_pct,7.53,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,infraestructura_digital,personas_banca_electronica_pct,17.21,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,infraestructura_digital,personas_banca_electronica_pct,8.45,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,infraestructura_digital,personas_banca_electronica_pct,13.68,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,infraestructura_digital,personas_banca_electronica_pct,25.01,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,infraestructura_digital,personas_banca_electronica_pct,14.08,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,infraestructura_digital,personas_banca_electronica_pct,12.13,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,infraestructura_digital,personas_banca_electronica_pct,18.75,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,infraestructura_digital,personas_banca_electronica_pct,7.17,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,cobertura_red,personas_con_celular_pct,86.12,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,cobertura_red,personas_con_celular_pct,90.72,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,cobertura_red,personas_con_celular_pct,89.92,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,cobertura_red,personas_con_celular_pct,76.82,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,cobertura_red,personas_con_celular_pct,87.79,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,cobertura_red,personas_con_celular_pct,87.05,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,cobertura_red,personas_con_celular_pct,63.09,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,cobertura_red,personas_con_celular_pct,84.7,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,cobertura_red,personas_con_celular_pct,87.39,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,cobertura_red,personas_con_celular_pct,85.8,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,cobertura_red,personas_con_celular_pct,81.85,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,cobertura_red,personas_con_celular_pct,74.93,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,cobertura_red,personas_con_celular_pct,83.5,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,cobertura_red,personas_con_celular_pct,87.37,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,cobertura_red,personas_con_celular_pct,83.38,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,cobertura_red,personas_con_celular_pct,81.42,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,cobertura_red,personas_con_celular_pct,86.36,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,cobertura_red,personas_con_celular_pct,84.4,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,cobertura_red,personas_con_celular_pct,88.39,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,cobertura_red,personas_con_celular_pct,71.27,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,cobertura_red,personas_con_celular_pct,80.02,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,cobertura_red,personas_con_celular_pct,84.76,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,cobertura_red,personas_con_celular_pct,89.17,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,cobertura_red,personas_con_celular_pct,81.7,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,cobertura_red,personas_con_celular_pct,89.27,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,cobertura_red,personas_con_celular_pct,92.24,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,cobertura_red,personas_con_celular_pct,80.99,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,cobertura_red,personas_con_celular_pct,88.11,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,cobertura_red,personas_con_celular_pct,81.02,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,cobertura_red,personas_con_celular_pct,79.18,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,cobertura_red,personas_con_celular_pct,82.82,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,cobertura_red,personas_con_celular_pct,81.25,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,cobertura_red,personas_usuarias_celular_pct,87.08,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,cobertura_red,personas_usuarias_celular_pct,90.26,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,cobertura_red,personas_usuarias_celular_pct,91.66,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,cobertura_red,personas_usuarias_celular_pct,86.28,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,cobertura_red,personas_usuarias_celular_pct,91.33,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,cobertura_red,personas_usuarias_celular_pct,90.98,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,cobertura_red,personas_usuarias_celular_pct,73.17,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,cobertura_red,personas_usuarias_celular_pct,86.65,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,cobertura_red,personas_usuarias_celular_pct,90.05,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,cobertura_red,personas_usuarias_celular_pct,89.05,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,cobertura_red,personas_usuarias_celular_pct,84.53,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,cobertura_red,personas_usuarias_celular_pct,83.35,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,cobertura_red,personas_usuarias_celular_pct,88.85,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,cobertura_red,personas_usuarias_celular_pct,88.89,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,cobertura_red,personas_usuarias_celular_pct,86.74,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,cobertura_red,personas_usuarias_celular_pct,88.25,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,cobertura_red,personas_usuarias_celular_pct,88.41,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,cobertura_red,personas_usuarias_celular_pct,87.56,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,cobertura_red,personas_usuarias_celular_pct,89.57,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,cobertura_red,personas_usuarias_celular_pct,75.81,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,cobertura_red,personas_usuarias_celular_pct,85.49,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,cobertura_red,personas_usuarias_celular_pct,86.68,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,cobertura_red,personas_usuarias_celular_pct,92.47,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,cobertura_red,personas_usuarias_celular_pct,86.14,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,cobertura_red,personas_usuarias_celular_pct,90.68,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,cobertura_red,personas_usuarias_celular_pct,93.08,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,cobertura_red,personas_usuarias_celular_pct,88.35,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,cobertura_red,personas_usuarias_celular_pct,90.44,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,cobertura_red,personas_usuarias_celular_pct,86.8,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,cobertura_red,personas_usuarias_celular_pct,84.35,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,cobertura_red,personas_usuarias_celular_pct,87.91,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,cobertura_red,personas_usuarias_celular_pct,84.83,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,cobertura_red,personas_con_smartphone_pct,85.33,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,cobertura_red,personas_con_smartphone_pct,86.21,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,cobertura_red,personas_con_smartphone_pct,89.14,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,cobertura_red,personas_con_smartphone_pct,83.9,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,cobertura_red,personas_con_smartphone_pct,89.02,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,cobertura_red,personas_con_smartphone_pct,88.93,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,cobertura_red,personas_con_smartphone_pct,68.04,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,cobertura_red,personas_con_smartphone_pct,83.45,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,cobertura_red,personas_con_smartphone_pct,88.48,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,cobertura_red,personas_con_smartphone_pct,85.8,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,cobertura_red,personas_con_smartphone_pct,82.2,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,cobertura_red,personas_con_smartphone_pct,80.98,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,cobertura_red,personas_con_smartphone_pct,85.13,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,cobertura_red,personas_con_smartphone_pct,86.47,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,cobertura_red,personas_con_smartphone_pct,85.3,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,cobertura_red,personas_con_smartphone_pct,85.03,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,cobertura_red,personas_con_smartphone_pct,85.91,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,cobertura_red,personas_con_smartphone_pct,83.44,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,cobertura_red,personas_con_smartphone_pct,87.67,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,cobertura_red,personas_con_smartphone_pct,73.01,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,cobertura_red,personas_con_smartphone_pct,80.07,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,cobertura_red,personas_con_smartphone_pct,83.86,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,cobertura_red,personas_con_smartphone_pct,91.05,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,cobertura_red,personas_con_smartphone_pct,81.22,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,cobertura_red,personas_con_smartphone_pct,86.83,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,cobertura_red,personas_con_smartphone_pct,90.48,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,cobertura_red,personas_con_smartphone_pct,84.93,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,cobertura_red,personas_con_smartphone_pct,87.47,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,cobertura_red,personas_con_smartphone_pct,83.44,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,cobertura_red,personas_con_smartphone_pct,81.08,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,cobertura_red,personas_con_smartphone_pct,85.71,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,cobertura_red,personas_con_smartphone_pct,81.86,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,cobertura_red,personas_conexion_datos_celular_pct,58.73,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,cobertura_red,personas_conexion_datos_celular_pct,72.17,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,cobertura_red,personas_conexion_datos_celular_pct,75.4,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,cobertura_red,personas_conexion_datos_celular_pct,69.16,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,cobertura_red,personas_conexion_datos_celular_pct,68.4,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,cobertura_red,personas_conexion_datos_celular_pct,69.93,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,cobertura_red,personas_conexion_datos_celular_pct,46.84,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,cobertura_red,personas_conexion_datos_celular_pct,67.93,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,cobertura_red,personas_conexion_datos_celular_pct,73.61,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,cobertura_red,personas_conexion_datos_celular_pct,67.44,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,cobertura_red,personas_conexion_datos_celular_pct,57.47,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,cobertura_red,personas_conexion_datos_celular_pct,60.52,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,cobertura_red,personas_conexion_datos_celular_pct,69.44,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,cobertura_red,personas_conexion_datos_celular_pct,67.63,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,cobertura_red,personas_conexion_datos_celular_pct,65.2,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,cobertura_red,personas_conexion_datos_celular_pct,65.45,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,cobertura_red,personas_conexion_datos_celular_pct,68.54,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,cobertura_red,personas_conexion_datos_celular_pct,70.32,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,cobertura_red,personas_conexion_datos_celular_pct,62.32,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,cobertura_red,personas_conexion_datos_celular_pct,49.06,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,cobertura_red,personas_conexion_datos_celular_pct,62.35,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,cobertura_red,personas_conexion_datos_celular_pct,66.58,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,cobertura_red,personas_conexion_datos_celular_pct,74.87,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,cobertura_red,personas_conexion_datos_celular_pct,65.83,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,cobertura_red,personas_conexion_datos_celular_pct,70.22,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,cobertura_red,personas_conexion_datos_celular_pct,81.24,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,cobertura_red,personas_conexion_datos_celular_pct,64.65,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,cobertura_red,personas_conexion_datos_celular_pct,73.69,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,cobertura_red,personas_conexion_datos_celular_pct,67.46,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,cobertura_red,personas_conexion_datos_celular_pct,56.02,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,cobertura_red,personas_conexion_datos_celular_pct,68.96,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,cobertura_red,personas_conexion_datos_celular_pct,62.63,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,infraestructura_digital,personas_usan_apps_redes_sociales_pct,65.24,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,infraestructura_digital,personas_usan_apps_redes_sociales_pct,66.43,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,infraestructura_digital,personas_usan_apps_redes_sociales_pct,71.6,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,infraestructura_digital,personas_usan_apps_redes_sociales_pct,65.18,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,infraestructura_digital,personas_usan_apps_redes_sociales_pct,70.4,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,infraestructura_digital,personas_usan_apps_redes_sociales_pct,68.41,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,infraestructura_digital,personas_usan_apps_redes_sociales_pct,47.01,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,infraestructura_digital,personas_usan_apps_redes_sociales_pct,67.06,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,infraestructura_digital,personas_usan_apps_redes_sociales_pct,67.52,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,infraestructura_digital,personas_usan_apps_redes_sociales_pct,65.6,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,infraestructura_digital,personas_usan_apps_redes_sociales_pct,54.49,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,infraestructura_digital,personas_usan_apps_redes_sociales_pct,60.11,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,infraestructura_digital,personas_usan_apps_redes_sociales_pct,65.46,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,infraestructura_digital,personas_usan_apps_redes_sociales_pct,68.48,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,infraestructura_digital,personas_usan_apps_redes_sociales_pct,58.43,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,infraestructura_digital,personas_usan_apps_redes_sociales_pct,63.49,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,infraestructura_digital,personas_usan_apps_redes_sociales_pct,61.73,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,infraestructura_digital,personas_usan_apps_redes_sociales_pct,65.19,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,infraestructura_digital,personas_usan_apps_redes_sociales_pct,66.58,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,infraestructura_digital,personas_usan_apps_redes_sociales_pct,51.02,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,infraestructura_digital,personas_usan_apps_redes_sociales_pct,58.66,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,infraestructura_digital,personas_usan_apps_redes_sociales_pct,60.52,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,infraestructura_digital,personas_usan_apps_redes_sociales_pct,66.75,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,infraestructura_digital,personas_usan_apps_redes_sociales_pct,65.44,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,infraestructura_digital,personas_usan_apps_redes_sociales_pct,72.54,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,infraestructura_digital,personas_usan_apps_redes_sociales_pct,77.88,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,infraestructura_digital,personas_usan_apps_redes_sociales_pct,63.83,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,infraestructura_digital,personas_usan_apps_redes_sociales_pct,69.58,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,infraestructura_digital,personas_usan_apps_redes_sociales_pct,66.83,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,infraestructura_digital,personas_usan_apps_redes_sociales_pct,56.9,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,infraestructura_digital,personas_usan_apps_redes_sociales_pct,69.54,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,infraestructura_digital,personas_usan_apps_redes_sociales_pct,67.62,2024,INEGI ENDUTIH 2024,%
+AGS,01,Aguascalientes,infraestructura_digital,personas_usan_banca_movil_pct,29.42,2024,INEGI ENDUTIH 2024,%
+BCN,02,Baja California,infraestructura_digital,personas_usan_banca_movil_pct,34.44,2024,INEGI ENDUTIH 2024,%
+BCS,03,Baja California Sur,infraestructura_digital,personas_usan_banca_movil_pct,40.84,2024,INEGI ENDUTIH 2024,%
+CAM,04,Campeche,infraestructura_digital,personas_usan_banca_movil_pct,32.96,2024,INEGI ENDUTIH 2024,%
+COA,05,Coahuila,infraestructura_digital,personas_usan_banca_movil_pct,31.16,2024,INEGI ENDUTIH 2024,%
+COL,06,Colima,infraestructura_digital,personas_usan_banca_movil_pct,32.17,2024,INEGI ENDUTIH 2024,%
+CHP,07,Chiapas,infraestructura_digital,personas_usan_banca_movil_pct,16.61,2024,INEGI ENDUTIH 2024,%
+CHH,08,Chihuahua,infraestructura_digital,personas_usan_banca_movil_pct,32.5,2024,INEGI ENDUTIH 2024,%
+CMX,09,Ciudad de Mexico,infraestructura_digital,personas_usan_banca_movil_pct,37.03,2024,INEGI ENDUTIH 2024,%
+DUR,10,Durango,infraestructura_digital,personas_usan_banca_movil_pct,24.65,2024,INEGI ENDUTIH 2024,%
+GUA,11,Guanajuato,infraestructura_digital,personas_usan_banca_movil_pct,18.2,2024,INEGI ENDUTIH 2024,%
+GRO,12,Guerrero,infraestructura_digital,personas_usan_banca_movil_pct,17.42,2024,INEGI ENDUTIH 2024,%
+HID,13,Hidalgo,infraestructura_digital,personas_usan_banca_movil_pct,27.43,2024,INEGI ENDUTIH 2024,%
+JAL,14,Jalisco,infraestructura_digital,personas_usan_banca_movil_pct,26.04,2024,INEGI ENDUTIH 2024,%
+MEX,15,Mexico,infraestructura_digital,personas_usan_banca_movil_pct,23.74,2024,INEGI ENDUTIH 2024,%
+MIC,16,Michoacan,infraestructura_digital,personas_usan_banca_movil_pct,22.98,2024,INEGI ENDUTIH 2024,%
+MOR,17,Morelos,infraestructura_digital,personas_usan_banca_movil_pct,23.21,2024,INEGI ENDUTIH 2024,%
+NAY,18,Nayarit,infraestructura_digital,personas_usan_banca_movil_pct,24.85,2024,INEGI ENDUTIH 2024,%
+NLE,19,Nuevo Leon,infraestructura_digital,personas_usan_banca_movil_pct,33.79,2024,INEGI ENDUTIH 2024,%
+OAX,20,Oaxaca,infraestructura_digital,personas_usan_banca_movil_pct,15.52,2024,INEGI ENDUTIH 2024,%
+PUE,21,Puebla,infraestructura_digital,personas_usan_banca_movil_pct,18.39,2024,INEGI ENDUTIH 2024,%
+QUE,22,Queretaro,infraestructura_digital,personas_usan_banca_movil_pct,30.02,2024,INEGI ENDUTIH 2024,%
+ROO,23,Quintana Roo,infraestructura_digital,personas_usan_banca_movil_pct,35.13,2024,INEGI ENDUTIH 2024,%
+SLP,24,San Luis Potosi,infraestructura_digital,personas_usan_banca_movil_pct,23.48,2024,INEGI ENDUTIH 2024,%
+SIN,25,Sinaloa,infraestructura_digital,personas_usan_banca_movil_pct,32.22,2024,INEGI ENDUTIH 2024,%
+SON,26,Sonora,infraestructura_digital,personas_usan_banca_movil_pct,39.98,2024,INEGI ENDUTIH 2024,%
+TAB,27,Tabasco,infraestructura_digital,personas_usan_banca_movil_pct,35.0,2024,INEGI ENDUTIH 2024,%
+TAM,28,Tamaulipas,infraestructura_digital,personas_usan_banca_movil_pct,31.0,2024,INEGI ENDUTIH 2024,%
+TLA,29,Tlaxcala,infraestructura_digital,personas_usan_banca_movil_pct,21.3,2024,INEGI ENDUTIH 2024,%
+VER,30,Veracruz,infraestructura_digital,personas_usan_banca_movil_pct,21.63,2024,INEGI ENDUTIH 2024,%
+YUC,31,Yucatan,infraestructura_digital,personas_usan_banca_movil_pct,33.54,2024,INEGI ENDUTIH 2024,%
+ZAC,32,Zacatecas,infraestructura_digital,personas_usan_banca_movil_pct,21.98,2024,INEGI ENDUTIH 2024,%
