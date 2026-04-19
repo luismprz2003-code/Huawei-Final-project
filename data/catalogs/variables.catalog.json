@@ -1,0 +1,181 @@
+{
+  "updated_at": "2026-04-19",
+  "categories": [
+    {
+      "categoria_id": "infraestructura_digital",
+      "nombre": "Infraestructura digital",
+      "descripcion": "Capacidad fisica y acceso digital del territorio."
+    },
+    {
+      "categoria_id": "cobertura_red",
+      "nombre": "Cobertura de red",
+      "descripcion": "Disponibilidad y penetracion de redes moviles y fijas."
+    },
+    {
+      "categoria_id": "industria",
+      "nombre": "Industria",
+      "descripcion": "Actividad economica e indicadores de dinamismo industrial."
+    },
+    {
+      "categoria_id": "contexto_territorial",
+      "nombre": "Contexto territorial",
+      "descripcion": "Condiciones demograficas y territoriales para interpretacion estrategica."
+    }
+  ],
+  "variables": [
+    {
+      "variable_id": "indice_conectividad_digital",
+      "categoria_id": "infraestructura_digital",
+      "nombre": "Indice de conectividad digital",
+      "descripcion": "Indice compuesto de acceso, banda ancha y disponibilidad digital.",
+      "unidad_base": "indice",
+      "tipo_valor": "number",
+      "agregacion_default": "avg",
+      "fuente_sugerida": "IFT / INEGI",
+      "sinonimos": ["digital_connectivity", "conectividad digital", "indice de conectividad"]
+    },
+    {
+      "variable_id": "hogares_banda_ancha_fija_pct",
+      "categoria_id": "infraestructura_digital",
+      "nombre": "Hogares con banda ancha fija",
+      "descripcion": "Porcentaje de hogares con acceso a banda ancha fija.",
+      "unidad_base": "%",
+      "tipo_valor": "percentage",
+      "agregacion_default": "avg",
+      "fuente_sugerida": "ENDUTIH",
+      "sinonimos": ["banda ancha fija", "fixed broadband households pct"]
+    },
+    {
+      "variable_id": "cobertura_5g_pct",
+      "categoria_id": "cobertura_red",
+      "nombre": "Cobertura 5G",
+      "descripcion": "Cobertura estimada de 5G sobre la poblacion objetivo.",
+      "unidad_base": "%",
+      "tipo_valor": "percentage",
+      "agregacion_default": "avg",
+      "fuente_sugerida": "IFT / operadores",
+      "sinonimos": ["mobile_coverage_5g", "5g coverage", "cobertura 5g"]
+    },
+    {
+      "variable_id": "cobertura_4g_pct",
+      "categoria_id": "cobertura_red",
+      "nombre": "Cobertura 4G",
+      "descripcion": "Cobertura estimada de 4G sobre la poblacion objetivo.",
+      "unidad_base": "%",
+      "tipo_valor": "percentage",
+      "agregacion_default": "avg",
+      "fuente_sugerida": "IFT / operadores",
+      "sinonimos": ["4g coverage", "cobertura 4g"]
+    },
+    {
+      "variable_id": "penetracion_movil_pct",
+      "categoria_id": "cobertura_red",
+      "nombre": "Penetracion movil",
+      "descripcion": "Penetracion estimada de servicios moviles en la poblacion.",
+      "unidad_base": "%",
+      "tipo_valor": "percentage",
+      "agregacion_default": "avg",
+      "fuente_sugerida": "IFT",
+      "sinonimos": ["mobile penetration", "penetracion movil"]
+    },
+    {
+      "variable_id": "actividad_industrial_indice",
+      "categoria_id": "industria",
+      "nombre": "Actividad industrial",
+      "descripcion": "Indice sintetico de dinamismo industrial estatal.",
+      "unidad_base": "indice",
+      "tipo_valor": "number",
+      "agregacion_default": "avg",
+      "fuente_sugerida": "INEGI",
+      "sinonimos": ["industrial_activity", "actividad industrial"]
+    },
+    {
+      "variable_id": "empleo_industrial_pct",
+      "categoria_id": "industria",
+      "nombre": "Empleo industrial",
+      "descripcion": "Participacion del empleo industrial en el empleo total.",
+      "unidad_base": "%",
+      "tipo_valor": "percentage",
+      "agregacion_default": "avg",
+      "fuente_sugerida": "INEGI / ENOE",
+      "sinonimos": ["industrial employment pct", "empleo industrial"]
+    },
+    {
+      "variable_id": "exportaciones_industriales_usd_millones",
+      "categoria_id": "industria",
+      "nombre": "Exportaciones industriales",
+      "descripcion": "Exportaciones industriales estatales en millones de USD.",
+      "unidad_base": "USD millones",
+      "tipo_valor": "currency",
+      "agregacion_default": "sum",
+      "fuente_sugerida": "INEGI",
+      "sinonimos": ["industrial_exports", "exportaciones industriales"]
+    },
+    {
+      "variable_id": "inversion_extranjera_industria_usd_millones",
+      "categoria_id": "industria",
+      "nombre": "Inversion extranjera en industria",
+      "descripcion": "Flujo estimado de inversion extranjera directa en industria.",
+      "unidad_base": "USD millones",
+      "tipo_valor": "currency",
+      "agregacion_default": "sum",
+      "fuente_sugerida": "Secretaria de Economia",
+      "sinonimos": ["industrial fdi", "ied industria"]
+    },
+    {
+      "variable_id": "poblacion_total",
+      "categoria_id": "contexto_territorial",
+      "nombre": "Poblacion total",
+      "descripcion": "Poblacion total residente.",
+      "unidad_base": "personas",
+      "tipo_valor": "integer",
+      "agregacion_default": "sum",
+      "fuente_sugerida": "INEGI / CONAPO",
+      "sinonimos": ["population", "poblacion total"]
+    },
+    {
+      "variable_id": "densidad_poblacional",
+      "categoria_id": "contexto_territorial",
+      "nombre": "Densidad poblacional",
+      "descripcion": "Habitantes por kilometro cuadrado.",
+      "unidad_base": "hab/km2",
+      "tipo_valor": "number",
+      "agregacion_default": "avg",
+      "fuente_sugerida": "INEGI",
+      "sinonimos": ["population density", "densidad"]
+    },
+    {
+      "variable_id": "edad_mediana",
+      "categoria_id": "contexto_territorial",
+      "nombre": "Edad mediana",
+      "descripcion": "Edad mediana de la poblacion residente.",
+      "unidad_base": "anios",
+      "tipo_valor": "number",
+      "agregacion_default": "avg",
+      "fuente_sugerida": "CONAPO",
+      "sinonimos": ["median age", "edad mediana"]
+    },
+    {
+      "variable_id": "urbanizacion_pct",
+      "categoria_id": "contexto_territorial",
+      "nombre": "Urbanizacion",
+      "descripcion": "Proporcion de poblacion urbana.",
+      "unidad_base": "%",
+      "tipo_valor": "percentage",
+      "agregacion_default": "avg",
+      "fuente_sugerida": "INEGI / CONAPO",
+      "sinonimos": ["urbanization rate", "urbanizacion"]
+    },
+    {
+      "variable_id": "escolaridad_promedio_anios",
+      "categoria_id": "contexto_territorial",
+      "nombre": "Escolaridad promedio",
+      "descripcion": "Anos promedio de escolaridad.",
+      "unidad_base": "anios",
+      "tipo_valor": "number",
+      "agregacion_default": "avg",
+      "fuente_sugerida": "INEGI",
+      "sinonimos": ["average schooling years", "escolaridad promedio"]
+    }
+  ]
+}

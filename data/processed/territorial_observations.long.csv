@@ -1,0 +1,17 @@
+state_code,estado,categoria,variable,valor,anio,fuente,unidad
+NLE,Nuevo Leon,infraestructura_digital,indice_conectividad_digital,87.5,2025,Mock Huawei Strategy Lab,indice
+NLE,Nuevo Leon,cobertura_red,cobertura_5g_pct,49.2,2025,Mock Huawei Strategy Lab,%
+NLE,Nuevo Leon,industria,actividad_industrial_indice,91.4,2025,Mock Huawei Strategy Lab,indice
+NLE,Nuevo Leon,industria,exportaciones_industriales_usd_millones,56800,2025,Mock Huawei Strategy Lab,USD millones
+NLE,Nuevo Leon,contexto_territorial,poblacion_total,5900000,2025,Mock Huawei Strategy Lab,personas
+NLE,Nuevo Leon,contexto_territorial,urbanizacion_pct,95.1,2025,Mock Huawei Strategy Lab,%
+JAL,Jalisco,infraestructura_digital,indice_conectividad_digital,82.3,2025,Mock Huawei Strategy Lab,indice
+JAL,Jalisco,cobertura_red,cobertura_5g_pct,41.5,2025,Mock Huawei Strategy Lab,%
+JAL,Jalisco,industria,actividad_industrial_indice,83.1,2025,Mock Huawei Strategy Lab,indice
+JAL,Jalisco,industria,exportaciones_industriales_usd_millones,28700,2025,Mock Huawei Strategy Lab,USD millones
+JAL,Jalisco,contexto_territorial,poblacion_total,8600000,2025,Mock Huawei Strategy Lab,personas
+JAL,Jalisco,contexto_territorial,urbanizacion_pct,89.3,2025,Mock Huawei Strategy Lab,%
+CMX,Ciudad de Mexico,infraestructura_digital,indice_conectividad_digital,90.1,2025,Mock Huawei Strategy Lab,indice
+CMX,Ciudad de Mexico,cobertura_red,cobertura_5g_pct,57.8,2025,Mock Huawei Strategy Lab,%
+CMX,Ciudad de Mexico,industria,actividad_industrial_indice,69.4,2025,Mock Huawei Strategy Lab,indice
+CMX,Ciudad de Mexico,contexto_territorial,poblacion_total,9200000,2025,Mock Huawei Strategy Lab,personas

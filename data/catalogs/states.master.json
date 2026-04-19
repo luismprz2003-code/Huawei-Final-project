@@ -1,0 +1,55 @@
+{
+  "updated_at": "2026-04-19",
+  "country": "Mexico",
+  "states": [
+    {
+      "state_code": "AGS",
+      "estado": "Aguascalientes",
+      "aliases": ["Aguascalientes"],
+      "region": "Bajio",
+      "capital": "Aguascalientes"
+    },
+    {
+      "state_code": "CHH",
+      "estado": "Chihuahua",
+      "aliases": ["Chihuahua", "Estado de Chihuahua"],
+      "region": "Norte",
+      "capital": "Chihuahua"
+    },
+    {
+      "state_code": "CMX",
+      "estado": "Ciudad de Mexico",
+      "aliases": ["CDMX", "Ciudad de Mexico", "Ciudad de México", "Distrito Federal"],
+      "region": "Centro",
+      "capital": "Ciudad de Mexico"
+    },
+    {
+      "state_code": "JAL",
+      "estado": "Jalisco",
+      "aliases": ["Jalisco"],
+      "region": "Occidente",
+      "capital": "Guadalajara"
+    },
+    {
+      "state_code": "NLE",
+      "estado": "Nuevo Leon",
+      "aliases": ["Nuevo Leon", "Nuevo León", "N.L."],
+      "region": "Noreste",
+      "capital": "Monterrey"
+    },
+    {
+      "state_code": "QUE",
+      "estado": "Queretaro",
+      "aliases": ["Queretaro", "Querétaro", "Queretaro de Arteaga"],
+      "region": "Bajio",
+      "capital": "Santiago de Queretaro"
+    },
+    {
+      "state_code": "YUC",
+      "estado": "Yucatan",
+      "aliases": ["Yucatan", "Yucatán"],
+      "region": "Sureste",
+      "capital": "Merida"
+    }
+  ]
+}

@@ -32,12 +32,25 @@ Se prioriza una arquitectura simple:
 ```text
 .
 |-- .gitignore
+|-- docs/
+|   `-- data-standard.md
 |-- package.json
 |-- tsconfig.json
 |-- vite.config.ts
 |-- public/
 |   `-- data/
 |       `-- states.metrics.json
+|-- data/
+|   |-- catalogs/
+|   |   |-- states.master.json
+|   |   `-- variables.catalog.json
+|   |-- processed/
+|   |   |-- territorial_dashboard.wide.json
+|   |   |-- territorial_observations.long.csv
+|   |   `-- territorial_observations.long.json
+|   `-- raw/
+|       |-- states.metrics.source.json
+|       `-- states.metrics.source.csv
 |-- scripts/
 |   `-- build-processed-data.mjs
 |-- src/
@@ -57,15 +70,12 @@ Se prioriza una arquitectura simple:
 |   |-- styles/
 |   |   `-- global.css
 |   |-- types/
+|   |   |-- dataStandard.ts
 |   |   `-- dataset.ts
 |   `-- utils/
 |       |-- insights.ts
-|       `-- metrics.ts
-`-- data/
-    |-- processed/
-    `-- raw/
-        |-- states.metrics.source.json
-        `-- states.metrics.source.csv
+|       |-- metrics.ts
+|       `-- normalization.ts
 ```
 
 ## Como correrlo
@@ -96,6 +106,8 @@ npm run dev
 - Datos mock minimos para validar la UI desde archivos locales.
 - Un script base para mover datos procesados hacia la carpeta publica.
 - Componentes desacoplados para crecer sin meter backend antes de tiempo.
+- Un estandar de datos documentado en `docs/data-standard.md`.
+- Catalogos y ejemplos procesados para comparar estados con nombres consistentes.
 
 ## Siguientes pasos sugeridos
 

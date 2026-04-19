@@ -1,0 +1,167 @@
+{
+  "updated_at": "2026-04-19",
+  "schema_version": "1.0.0",
+  "dataset_id": "territorial_observations.long",
+  "records": [
+    {
+      "state_code": "NLE",
+      "estado": "Nuevo Leon",
+      "categoria": "infraestructura_digital",
+      "variable": "indice_conectividad_digital",
+      "valor": 87.5,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "indice"
+    },
+    {
+      "state_code": "NLE",
+      "estado": "Nuevo Leon",
+      "categoria": "cobertura_red",
+      "variable": "cobertura_5g_pct",
+      "valor": 49.2,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "%"
+    },
+    {
+      "state_code": "NLE",
+      "estado": "Nuevo Leon",
+      "categoria": "industria",
+      "variable": "actividad_industrial_indice",
+      "valor": 91.4,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "indice"
+    },
+    {
+      "state_code": "NLE",
+      "estado": "Nuevo Leon",
+      "categoria": "industria",
+      "variable": "exportaciones_industriales_usd_millones",
+      "valor": 56800,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "USD millones"
+    },
+    {
+      "state_code": "NLE",
+      "estado": "Nuevo Leon",
+      "categoria": "contexto_territorial",
+      "variable": "poblacion_total",
+      "valor": 5900000,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "personas"
+    },
+    {
+      "state_code": "NLE",
+      "estado": "Nuevo Leon",
+      "categoria": "contexto_territorial",
+      "variable": "urbanizacion_pct",
+      "valor": 95.1,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "%"
+    },
+    {
+      "state_code": "JAL",
+      "estado": "Jalisco",
+      "categoria": "infraestructura_digital",
+      "variable": "indice_conectividad_digital",
+      "valor": 82.3,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "indice"
+    },
+    {
+      "state_code": "JAL",
+      "estado": "Jalisco",
+      "categoria": "cobertura_red",
+      "variable": "cobertura_5g_pct",
+      "valor": 41.5,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "%"
+    },
+    {
+      "state_code": "JAL",
+      "estado": "Jalisco",
+      "categoria": "industria",
+      "variable": "actividad_industrial_indice",
+      "valor": 83.1,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "indice"
+    },
+    {
+      "state_code": "JAL",
+      "estado": "Jalisco",
+      "categoria": "industria",
+      "variable": "exportaciones_industriales_usd_millones",
+      "valor": 28700,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "USD millones"
+    },
+    {
+      "state_code": "JAL",
+      "estado": "Jalisco",
+      "categoria": "contexto_territorial",
+      "variable": "poblacion_total",
+      "valor": 8600000,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "personas"
+    },
+    {
+      "state_code": "JAL",
+      "estado": "Jalisco",
+      "categoria": "contexto_territorial",
+      "variable": "urbanizacion_pct",
+      "valor": 89.3,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "%"
+    },
+    {
+      "state_code": "CMX",
+      "estado": "Ciudad de Mexico",
+      "categoria": "infraestructura_digital",
+      "variable": "indice_conectividad_digital",
+      "valor": 90.1,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "indice"
+    },
+    {
+      "state_code": "CMX",
+      "estado": "Ciudad de Mexico",
+      "categoria": "cobertura_red",
+      "variable": "cobertura_5g_pct",
+      "valor": 57.8,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "%"
+    },
+    {
+      "state_code": "CMX",
+      "estado": "Ciudad de Mexico",
+      "categoria": "industria",
+      "variable": "actividad_industrial_indice",
+      "valor": 69.4,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "indice"
+    },
+    {
+      "state_code": "CMX",
+      "estado": "Ciudad de Mexico",
+      "categoria": "contexto_territorial",
+      "variable": "poblacion_total",
+      "valor": 9200000,
+      "anio": 2025,
+      "fuente": "Mock Huawei Strategy Lab",
+      "unidad": "personas"
+    }
+  ]
+}
