@@ -1,0 +1,61 @@
+{
+  "updatedAt": "2026-04-19",
+  "metricCatalog": [
+    {
+      "id": "digital_connectivity",
+      "label": "Conectividad digital",
+      "unit": "%",
+      "category": "Infraestructura digital",
+      "description": "Indice compuesto de acceso, banda ancha y capacidad digital."
+    },
+    {
+      "id": "mobile_coverage_5g",
+      "label": "Cobertura 5G",
+      "unit": "%",
+      "category": "Cobertura de red",
+      "description": "Porcentaje estimado de cobertura 5G sobre poblacion objetivo."
+    },
+    {
+      "id": "industrial_activity",
+      "label": "Actividad industrial",
+      "unit": "pts",
+      "category": "Industria",
+      "description": "Indice sintentico de dinamismo industrial."
+    },
+    {
+      "id": "industrial_exports",
+      "label": "Exportaciones industriales",
+      "unit": "USD bn",
+      "category": "Industria",
+      "description": "Exportaciones industriales aproximadas por entidad."
+    },
+    {
+      "id": "population_millions",
+      "label": "Poblacion",
+      "unit": "M",
+      "category": "Contexto territorial",
+      "description": "Poblacion total estimada en millones."
+    },
+    {
+      "id": "urbanization_rate",
+      "label": "Urbanizacion",
+      "unit": "%",
+      "category": "Contexto territorial",
+      "description": "Participacion de poblacion urbana."
+    }
+  ],
+  "records": [
+    {
+      "state": "Nuevo Leon",
+      "region": "Noreste",
+      "metrics": {
+        "digital_connectivity": 87.5,
+        "mobile_coverage_5g": 49.2,
+        "industrial_activity": 91.4,
+        "industrial_exports": 56.8,
+        "population_millions": 5.9,
+        "urbanization_rate": 95.1
+      }
+    }
+  ]
+}
