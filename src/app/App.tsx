@@ -8,7 +8,8 @@ import ExecutiveKpiGrid from "../components/ExecutiveKpiGrid";
 import OpportunityKpiGrid from "../components/OpportunityKpiGrid";
 import ComparisonBarChart from "../components/charts/ComparisonBarChart";
 import CorrelationScatter from "../components/charts/CorrelationScatter";
-import RadarProfileChart from "../components/charts/RadarProfileChart";
+import DumbbellComparisonChart from "../components/charts/DumbbellComparisonChart";
+import MetricHeatmapChart from "../components/charts/MetricHeatmapChart";
 import { loadDataset } from "../data/loadDataset";
 import type { DashboardDataset, MetricDefinition, StateMetricRecord } from "../types/dataset";
 import { buildOpportunityRecords, getMetricAverage, getTopRecordByMetric } from "../utils/dashboard";
@@ -39,7 +40,7 @@ const ADOPTION_COVERAGE_IDS = [
   "personas_usan_banca_movil_pct"
 ];
 
-const ADOPTION_RADAR_IDS = [
+const ADOPTION_COMPARISON_IDS = [
   "personas_usuarias_internet_pct",
   "personas_con_smartphone_pct",
   "personas_conexion_datos_celular_pct",
@@ -195,29 +196,7 @@ export default function App() {
     [selectedPopulationMetricId]
   );
 
-  const populationScatter = useMemo(
-    () =>
-      filteredRecords.map((record) => ({
-        state: record.state,
-        x: record.metrics[populationCoveragePair.baseMetricId] ?? 0,
-        y: record.metrics[selectedPopulationMetricId] ?? 0,
-        z: record.metrics.teledensidad_internet_movil ?? 0
-      })),
-    [filteredRecords, populationCoveragePair.baseMetricId, selectedPopulationMetricId]
-  );
-
   const gapPair = useMemo(() => getGapPair(selectedGapMetricId), [selectedGapMetricId]);
-
-  const gapScatter = useMemo(
-    () =>
-      gapRecords.map((record) => ({
-        state: record.state,
-        x: record.metrics[gapPair.baseMetricId] ?? 0,
-        y: record.metrics[selectedGapMetricId] ?? 0,
-        z: record.metrics[gapPair.coveredMetricId] ?? 0
-      })),
-    [gapPair.baseMetricId, gapPair.coveredMetricId, gapRecords, selectedGapMetricId]
-  );
 
   const adoptionCoveragePair = useMemo(
     () => getAdoptionCoveragePair(selectedAdoptionMetricId),
@@ -233,14 +212,6 @@ export default function App() {
         z: record.metrics.teledensidad_internet_movil ?? 0
       })),
     [adoptionCoveragePair.coverageMetricId, filteredRecords, selectedAdoptionMetricId]
-  );
-
-  const adoptionRadarCatalog = useMemo(
-    () =>
-      dataset
-        ? ADOPTION_RADAR_IDS.map((metricId) => getMetricDefinition(dataset.metricCatalog, metricId))
-        : [],
-    [dataset]
   );
 
   const opportunityScatter = useMemo(
@@ -419,14 +390,15 @@ export default function App() {
               </div>
 
               <div className="panel panel-nested">
-                <CorrelationScatter
-                  data={populationScatter}
-                  title="Base territorial vs poblacion cubierta"
-                  description={`Cruce entre ${populationCoveragePair.baseLabel.toLowerCase()} y ${populationMetric.label.toLowerCase()}.`}
-                  xLabel={populationCoveragePair.baseLabel}
-                  xUnit=" %"
-                  yLabel={populationMetric.label}
-                  yUnit={` ${populationMetric.unit}`}
+                <DumbbellComparisonChart
+                  records={filteredRecords}
+                  leftMetricId={populationCoveragePair.baseMetricId}
+                  leftLabel={populationCoveragePair.baseLabel}
+                  rightMetricId={selectedPopulationMetricId}
+                  rightLabel={populationMetric.label}
+                  title="Diferencia entre base territorial y alcance efectivo"
+                  description={`Comparacion directa entre ${populationCoveragePair.baseLabel.toLowerCase()} y ${populationMetric.label.toLowerCase()} por estado.`}
+                  unit="%"
                 />
               </div>
             </div>
@@ -481,14 +453,15 @@ export default function App() {
               </div>
 
               <div className="panel panel-nested">
-                <CorrelationScatter
-                  data={gapScatter}
-                  title="Cobertura base vs brecha"
-                  description="La brecha alta sugiere concentracion de cobertura en zonas de mayor peso poblacional."
-                  xLabel={gapPair.baseLabel}
-                  xUnit=" %"
-                  yLabel={gapMetric.label}
-                  yUnit=" pp"
+                <DumbbellComparisonChart
+                  records={gapRecords}
+                  leftMetricId={gapPair.baseMetricId}
+                  leftLabel={gapPair.baseLabel}
+                  rightMetricId={gapPair.coveredMetricId}
+                  rightLabel={gapPair.coveredLabel}
+                  title="Brecha visible por estado"
+                  description="La separacion entre ambos puntos muestra si la cobertura se distribuye de forma amplia o se concentra en poblacion."
+                  unit="%"
                 />
               </div>
             </div>
@@ -546,12 +519,12 @@ export default function App() {
               </div>
 
               <div className="panel panel-nested">
-                <RadarProfileChart
+                <MetricHeatmapChart
                   records={filteredRecords}
-                  metricIds={ADOPTION_RADAR_IDS}
-                  metricCatalog={adoptionRadarCatalog}
-                  title="Perfil de adopcion digital"
-                  description="Vista comparativa de uso de internet, smartphone, datos moviles y adopcion transaccional."
+                  metricIds={ADOPTION_COMPARISON_IDS}
+                  metricCatalog={dataset.metricCatalog}
+                  title="Matriz comparativa de adopcion digital"
+                  description="Lectura compacta para comparar intensidad relativa entre estados y metricas clave."
                 />
               </div>
             </div>
