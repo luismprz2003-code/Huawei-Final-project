@@ -1,7 +1,7 @@
-# Huawei Territorial Dashboard
+# Mexico Connectivity Intelligence Dashboards
 
-Aplicación local para explorar variables territoriales de México con foco en análisis comparativo por entidad.  
-La base actual combina indicadores procesados de ENDUTIH 2024 y una primera capa de servicio móvil.
+Dashboards ejecutivos para comparar estados de México a partir de indicadores de conectividad, cobertura móvil y adopción digital.  
+La versión actual integra datos procesados de ENDUTIH 2024, teledensidad de internet móvil y primeras métricas territoriales de cobertura.
 
 ## Qué contiene 
 
