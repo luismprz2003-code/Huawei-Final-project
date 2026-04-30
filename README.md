@@ -200,3 +200,5 @@ Si entra una fuente nueva, la regla es:
 - documentar o mapear la variable en `variables.catalog.json`
 - transformar con script
 - publicar solo la salida procesada que realmente usa la UI
+
+Hola
